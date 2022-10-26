@@ -7,6 +7,7 @@ Fica um agradecimento especial para os professores Jorge Sant Ana e Jamilton Dam
 
 Obs: Para visualizar o projeto, é necessário primeiro iniciar o servidor PHP pelo prompt a partir do caminho da pasta de instalação. Em seguida, digitamos o endereço do servidor junto com a porta no navegador, conforme as figuras abaixo.
 
+Obs2: Adicionei o arquivo querys.sql, para criar o banco de dados correto e as tabelas necessárias para o bom funcionamento do projeto.
 
 
 
@@ -15,6 +16,8 @@ The study encompassed the knowledge of Full stack resources, also involving the 
 Special thanks are due to professors Jorge Sant Ana and Jamilton Damasceno, for the excellent explanations of the subject throughout this course.
 
 Note: To view the project, it is necessary to first start the PHP server from the prompt from the installation folder path. Then we type the server address along with the port in the browser, as shown in the figures below.
+
+Note2: I added the querys.sql file, to create the correct database and necessary tables for the proper working of the project.
 
 Img 1
 
